@@ -73,5 +73,3 @@ Feel free to fork this repository and make your own improvements. Submit a pull 
 License
 This project is released under the MIT License.
 
-Copy code
-
